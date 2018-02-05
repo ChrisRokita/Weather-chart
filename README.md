@@ -1,5 +1,7 @@
 # Charts
 
+This is a weather chart using angular 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
 ## Development server
